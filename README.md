@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Eduardo Costa, and I'm a student of Systems Analysis and Development. I'm currently studying and looking to grow in the field, aiming for my first internship or a Full Stack developer position.</h2>
+<br clear="both">
+
+<p align="left">Hi 👋! My name is Eduardo Costa, and I'm a student of Systems Analysis and Development. I'm currently studying and looking to grow in the field, aiming for my first internship or a Full Stack developer position.</p>
 
 ###
 
@@ -43,6 +45,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Du-Edu-Duarte/Du-Edu-Duarte/output/pacman-contribution-graph-dark.svg">
