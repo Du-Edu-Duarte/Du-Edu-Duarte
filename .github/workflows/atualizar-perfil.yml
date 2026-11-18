@@ -1,0 +1,39 @@
+name: Atualizar perfil
+
+# Mantém o README em dia: lista de projetos recentes e gráfico de linguagens.
+on:
+  schedule:
+    - cron: "17 9 * * *" # todo dia, 06:17 de Brasília
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["README.md", "scripts/**", ".github/workflows/atualizar-perfil.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atualizar-perfil
+  cancel-in-progress: true
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Gerar README e gráfico
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/update_readme.py
+      - name: Salvar se algo mudou
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md assets/langs.svg
+            git commit -m "chore: atualiza perfil automaticamente"
+            git push
+          fi
