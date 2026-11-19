@@ -98,11 +98,11 @@ RPA em Python que lê uma planilha de produtos e preenche o cadastro no sistema 
 <!-- PROJETOS:INICIO -->
 | Projeto | O que é | Linguagem | Atualizado |
 |---|---|---|---|
-| [**ecd-financas**](https://github.com/Du-Edu-Duarte/ecd-financas) · [demo](https://du-edu-duarte.github.io/ecd-financas/) | Fluxo de caixa, contas a pagar e receber, cartões, metas e relatórios para pequenas empresas. | JavaScript | 18 nov 2026 |
-| [**ecd-pdf**](https://github.com/Du-Edu-Duarte/ecd-pdf) · [demo](https://du-edu-duarte.github.io/ecd-pdf/) | Central de ordens de serviço e documentos em PDF, com leitura automática e busca. | JavaScript | 18 nov 2026 |
-| [**ecd-assina**](https://github.com/Du-Edu-Duarte/ecd-assina) · [demo](https://du-edu-duarte.github.io/ecd-assina/) | Assinatura digital de documentos pelo celular, com PDF assinado e página de verificação. | JavaScript | 18 nov 2026 |
-| [**desafio-funcional**](https://github.com/Du-Edu-Duarte/desafio-funcional) · [demo](https://du-edu-duarte.github.io/desafio-funcional/) | App de cronometragem para desafios de corrida e funcional (PWA). | JavaScript | 16 nov 2026 |
-| [**Auto**](https://github.com/Du-Edu-Duarte/Auto) | Robô em Python que preenche cadastros a partir de uma planilha (RPA). | Python | 05 nov 2026 |
+| [**ecd-financas**](https://github.com/Du-Edu-Duarte/ecd-financas) | ECD Financas: fluxo de caixa, contas a pagar e recebr, cartoes, metas e relatorios. Demo ECD Tecnologia. | JavaScript | 18 nov 2026 |
+| [**ecd-pdf**](https://github.com/Du-Edu-Duarte/ecd-pdf) | ECD PDF: central de ordens de servico em PDF com busa, correcao em lote e envio para assinatura. Demo EC Te… | JavaScript | 18 nov 2026 |
+| [**ecd-assina**](https://github.com/Du-Edu-Duarte/ecd-assina) | ECD Assina: assinatura digital de documentos Word/PD pelo celular. Demo ECD Tecnologia. | JavaScript | 18 nov 2026 |
+| [**desafio-funcional**](https://github.com/Du-Edu-Duarte/desafio-funcional) | — | JavaScript | 16 nov 2026 |
+| [**Auto**](https://github.com/Du-Edu-Duarte/Auto) | Autimação/tarefas | Python | 05 nov 2026 |
 <!-- PROJETOS:FIM -->
 
 ## 🛠️ Tecnologias

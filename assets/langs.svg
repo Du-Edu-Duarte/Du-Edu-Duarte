@@ -4,21 +4,21 @@
 <text class="t" x="28" y="42">Linguagens mais usadas</text>
 <clipPath id="b"><rect x="28" y="62" width="424" height="12" rx="6"/></clipPath>
 <g clip-path="url(#b)">
-<rect x="28.0" y="62" width="324.2" height="12" fill="#F1E05A"/>
-<rect x="351.7" y="62" width="82.0" height="12" fill="#8E6BD8"/>
-<rect x="433.2" y="62" width="15.6" height="12" fill="#E34C26"/>
-<rect x="448.3" y="62" width="4.2" height="12" fill="#4B8BBE"/>
+<rect x="28.0" y="62" width="280.7" height="12" fill="#F1E05A"/>
+<rect x="308.2" y="62" width="117.4" height="12" fill="#8E6BD8"/>
+<rect x="425.0" y="62" width="22.1" height="12" fill="#E34C26"/>
+<rect x="446.6" y="62" width="5.9" height="12" fill="#4B8BBE"/>
 </g>
 <circle cx="34" cy="103" r="6" fill="#F1E05A"/>
 <text class="l" x="48" y="108">JavaScript</text>
-<text class="p" x="224" y="108" text-anchor="end">76.3%</text>
+<text class="p" x="224" y="108" text-anchor="end">66.1%</text>
 <circle cx="254" cy="103" r="6" fill="#8E6BD8"/>
 <text class="l" x="268" y="108">CSS</text>
-<text class="p" x="444" y="108" text-anchor="end">19.2%</text>
+<text class="p" x="444" y="108" text-anchor="end">27.6%</text>
 <circle cx="34" cy="133" r="6" fill="#E34C26"/>
 <text class="l" x="48" y="138">HTML</text>
-<text class="p" x="224" y="138" text-anchor="end">3.6%</text>
+<text class="p" x="224" y="138" text-anchor="end">5.1%</text>
 <circle cx="254" cy="133" r="6" fill="#4B8BBE"/>
 <text class="l" x="268" y="138">Python</text>
-<text class="p" x="444" y="138" text-anchor="end">0.9%</text>
+<text class="p" x="444" y="138" text-anchor="end">1.3%</text>
 </svg>
