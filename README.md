@@ -98,11 +98,12 @@ RPA em Python que lê uma planilha de produtos e preenche o cadastro no sistema 
 <!-- PROJETOS:INICIO -->
 | Projeto | O que é | Linguagem | Atualizado |
 |---|---|---|---|
+| [**desafio-funcional**](https://github.com/Du-Edu-Duarte/desafio-funcional) | — | JavaScript | 19 nov 2026 |
+| [**ecd-imoveis**](https://github.com/Du-Edu-Duarte/ecd-imoveis) | ECD Imoveis: pagina do imovel com tour por comodo, ates e depois, montagem de moveis e visitas pelo WhatApp… | JavaScript | 19 nov 2026 |
+| [**ecd-eventos**](https://github.com/Du-Edu-Duarte/ecd-eventos) | ECD Eventos: planejamento de casamentos e festas comorcamento, convidados, cerimonia e playlist. Demo EC Te… | CSS | 19 nov 2026 |
 | [**ecd-financas**](https://github.com/Du-Edu-Duarte/ecd-financas) | ECD Financas: fluxo de caixa, contas a pagar e recebr, cartoes, metas e relatorios. Demo ECD Tecnologia. | JavaScript | 18 nov 2026 |
 | [**ecd-pdf**](https://github.com/Du-Edu-Duarte/ecd-pdf) | ECD PDF: central de ordens de servico em PDF com busa, correcao em lote e envio para assinatura. Demo EC Te… | JavaScript | 18 nov 2026 |
 | [**ecd-assina**](https://github.com/Du-Edu-Duarte/ecd-assina) | ECD Assina: assinatura digital de documentos Word/PD pelo celular. Demo ECD Tecnologia. | JavaScript | 18 nov 2026 |
-| [**desafio-funcional**](https://github.com/Du-Edu-Duarte/desafio-funcional) | — | JavaScript | 16 nov 2026 |
-| [**Auto**](https://github.com/Du-Edu-Duarte/Auto) | Autimação/tarefas | Python | 05 nov 2026 |
 <!-- PROJETOS:FIM -->
 
 ## 🛠️ Tecnologias
