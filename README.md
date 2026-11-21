@@ -98,7 +98,7 @@ RPA em Python que lê uma planilha de produtos e preenche o cadastro no sistema 
 <!-- PROJETOS:INICIO -->
 | Projeto | O que é | Linguagem | Atualizado |
 |---|---|---|---|
-| [**desafio-funcional**](https://github.com/Du-Edu-Duarte/desafio-funcional) | — | JavaScript | 19 nov 2026 |
+| [**desafio-funcional**](https://github.com/Du-Edu-Duarte/desafio-funcional) | — | JavaScript | 20 nov 2026 |
 | [**ecd-imoveis**](https://github.com/Du-Edu-Duarte/ecd-imoveis) | ECD Imoveis: pagina do imovel com tour por comodo, ates e depois, montagem de moveis e visitas pelo WhatApp… | JavaScript | 19 nov 2026 |
 | [**ecd-eventos**](https://github.com/Du-Edu-Duarte/ecd-eventos) | ECD Eventos: planejamento de casamentos e festas comorcamento, convidados, cerimonia e playlist. Demo EC Te… | CSS | 19 nov 2026 |
 | [**ecd-financas**](https://github.com/Du-Edu-Duarte/ecd-financas) | ECD Financas: fluxo de caixa, contas a pagar e recebr, cartoes, metas e relatorios. Demo ECD Tecnologia. | JavaScript | 18 nov 2026 |

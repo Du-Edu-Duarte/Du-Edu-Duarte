@@ -4,9 +4,9 @@
 <text class="t" x="28" y="42">Linguagens mais usadas</text>
 <clipPath id="b"><rect x="28" y="62" width="424" height="12" rx="6"/></clipPath>
 <g clip-path="url(#b)">
-<rect x="28.0" y="62" width="264.5" height="12" fill="#F1E05A"/>
-<rect x="292.0" y="62" width="133.8" height="12" fill="#8E6BD8"/>
-<rect x="425.3" y="62" width="23.5" height="12" fill="#E34C26"/>
+<rect x="28.0" y="62" width="264.7" height="12" fill="#F1E05A"/>
+<rect x="292.2" y="62" width="133.7" height="12" fill="#8E6BD8"/>
+<rect x="425.4" y="62" width="23.5" height="12" fill="#E34C26"/>
 <rect x="448.3" y="62" width="4.2" height="12" fill="#4B8BBE"/>
 </g>
 <circle cx="34" cy="103" r="6" fill="#F1E05A"/>
